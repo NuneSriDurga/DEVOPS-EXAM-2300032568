@@ -11,9 +11,9 @@
 	<groupId>com.klef.devops</groupId>
 	<artifactId>BACKEND</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>BACKEND</name>
 	<description>Demo project for Spring Boot</description>
-	<packaging>jar</packaging>
 	<url/>
 	<licenses>
 		<license/>
@@ -59,7 +59,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>voterbackend</finalName>
+		<finalName>2300032568-backend</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
